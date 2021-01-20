@@ -1,0 +1,89 @@
+body{
+    background-color:rgba(70, 70, 70, 0.815);
+    background-image: url(https://i.pinimg.com/originals/8b/b0/f5/8bb0f5cc08aae487f915747f6830b2d4.jpg);
+}
+header{
+    margin-top: -100px;
+    font-size: 80px;
+    background-color: rgb(40, 40, 41);
+    height: 160px;
+    border-style: solid;
+    padding-bottom: 80px;
+    border-color: azure;
+    
+}
+main{
+    margin-top: -100px;
+    font-size: 20px;
+}
+.button{
+    color:rgb(241, 247, 247)
+}
+.tajri{
+    color: rgb(238, 163, 0);
+}
+.razak{
+    color: rgb(245, 236, 236);
+}
+.hello{
+    font-size: 20px;
+    margin-top: -110px;
+}
+.welcome{
+    font-size: 20px;
+    color:rgb(241, 247, 247);
+    margin-top: -80px;
+}
+.profil{
+    margin-top: 150px;
+    
+}
+.school{
+    color: azure;
+    margin-left: 200px;
+    border-style: solid;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.skill{
+    color: azure;
+    margin-left: 500px;
+    background-color: darkgray;
+    border-style: solid;
+    border-radius: 10px;
+    font-size: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sekolah, .school{
+    background-color: darkgray;
+    width: 500px;
+    border-style: solid;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.sekolah{
+    margin-left: 10px;
+    margin-top: 50px;
+    padding-left: 70px;
+    padding-right: -100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:azure;
+}
+img{
+    margin-right: 10px;
+    margin-top: -3500px;
+    border-style: solid;
+    color: azure;
+    background-color: darkgray;
+    padding-top: 10px;
+    padding-bottom: -20px;
+    padding-left: 10px;
+    padding-right: -10px;
+    border-radius: 10px;
+}
